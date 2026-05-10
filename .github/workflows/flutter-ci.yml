@@ -35,7 +35,12 @@ jobs:
         run: flutter gen-l10n
 
       - name: Format check
-        run: dart format --output=none --set-exit-if-changed lib test
+        # Exclude auto-generated localization files: their formatting is
+        # determined by `flutter gen-l10n` and may drift between Flutter
+        # versions, so we never check them in.
+        run: |
+          files=$(find lib test -name "*.dart" -not -path "lib/generated/*")
+          dart format --output=none --set-exit-if-changed $files
 
       - name: Static analysis
         run: flutter analyze --fatal-infos
