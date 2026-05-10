@@ -1,0 +1,68 @@
+{
+  "@@locale": "en",
+  "appName": "MVP — Master at your service",
+
+  "splashTagline": "Handyman by the hour in Tyumen",
+
+  "onboardingSkip": "Skip",
+  "onboardingNext": "Next",
+  "onboardingStart": "Let's go",
+
+  "onboardingPage1Title": "One master — every job",
+  "onboardingPage1Body": "No need to call different specialists. One universal master will replace a socket, fit a faucet and assemble furniture — all in one visit.",
+
+  "onboardingPage2Title": "Transparent hourly price",
+  "onboardingPage2Body": "1 500 ₽ per hour + 500 ₽ call-out fee. We buy supplies on receipts — no hidden mark-ups.",
+
+  "onboardingPage3Title": "Order in 3 minutes",
+  "onboardingPage3Body": "Pick a service, time and address — the master will call and arrive within the chosen slot.",
+
+  "homeLocation": "Tyumen",
+  "homeHeroLine1": "Handyman by the hour",
+  "homeHeroLine2In": "in",
+  "homeHeroLine2City": "Tyumen",
+  "homeHeroLine3": "for home and office",
+  "homeHeroCta": "Order a master",
+
+  "homeMetricRate": "1 500 ₽/hr",
+  "homeMetricRateLabel": "pay by the hour",
+  "homeMetricDirections": "3 directions",
+  "homeMetricDirectionsLabel": "of work",
+  "homeMetricSchedule": "23/7",
+  "homeMetricScheduleLabel": "we accept orders",
+  "homeMetricReceipt": "97%",
+  "homeMetricReceiptLabel": "digital receipts",
+
+  "homeServicesTitle": "We do what you can't",
+  "homeServicesSubtitle": "Electrics, plumbing, handyman and minor construction work. One universal master — in a single visit.",
+
+  "homeCategoryElectricalTitle": "Electrical work",
+  "homeCategoryPlumbingTitle": "Plumbing",
+  "homeCategoryHouseholdTitle": "Household work",
+  "homeCategoryConstructionTitle": "Minor construction",
+  "homeCategoryCta": "Order",
+
+  "homeSosTitle": "SOS!",
+  "homeSosBody": "Power out? Flood? Broken lock?",
+  "homeSosCta": "Urgent visit",
+
+  "homeMarqueeReceipt": "Digital receipt",
+  "homeMarqueeWarranty": "Warranty on all work",
+  "homeMarqueeRegion": "City and suburbs",
+  "homeMarqueeCleanup": "We clean up after",
+  "homeMarqueeBoth": "Both individuals and businesses",
+  "homeMarqueeOnTime": "We arrive on time",
+  "homeMarqueePros": "Experienced masters",
+  "homeMarqueeClean": "Clean work",
+
+  "homeChipSocket": "Socket replacement",
+  "homeChipFaucet": "Faucet installation",
+  "homeChipFurniture": "Furniture assembly",
+  "homeChipLock": "Lock replacement",
+  "homeChipPicture": "Hang a picture",
+
+  "comingSoonTitle": "Coming soon",
+  "comingSoonBody": "This section will be available in the next iteration.",
+
+  "themeToggleHint": "Toggle theme"
+}

@@ -1,0 +1,70 @@
+{
+  "@@locale": "ru",
+  "appName": "МВП — Мастер в помощь",
+  "@appName": {"description": "Полное название приложения."},
+
+  "splashTagline": "Мастер на час в Тюмени",
+  "@splashTagline": {},
+
+  "onboardingSkip": "Пропустить",
+  "onboardingNext": "Далее",
+  "onboardingStart": "Поехали",
+
+  "onboardingPage1Title": "Один мастер — все работы",
+  "onboardingPage1Body": "Не нужно вызывать разных специалистов. Универсал заменит розетку, поставит смеситель и соберёт мебель за один визит.",
+
+  "onboardingPage2Title": "Прозрачная цена за час",
+  "onboardingPage2Body": "Час работы 1 500 ₽ + выезд 500 ₽. Закупаем материалы и отчитываемся по чекам — никаких скрытых наценок.",
+
+  "onboardingPage3Title": "Заявка за 3 минуты",
+  "onboardingPage3Body": "Выберите услугу, время и адрес — мастер позвонит и приедет в выбранный слот.",
+
+  "homeLocation": "Тюмень",
+  "homeHeroLine1": "Мастер на час",
+  "homeHeroLine2In": "в",
+  "homeHeroLine2City": "Тюмени",
+  "homeHeroLine3": "для дома и офиса",
+  "homeHeroCta": "Заказать мастера",
+
+  "homeMetricRate": "1 500 ₽/час",
+  "homeMetricRateLabel": "оплата по часам",
+  "homeMetricDirections": "3 направления",
+  "homeMetricDirectionsLabel": "работ",
+  "homeMetricSchedule": "23/7",
+  "homeMetricScheduleLabel": "приём заявок",
+  "homeMetricReceipt": "97%",
+  "homeMetricReceiptLabel": "электронный чек",
+
+  "homeServicesTitle": "Делаем всё, что не получается у вас",
+  "homeServicesSubtitle": "Электрика, сантехника, бытовой и мелкий строительный ремонт. Один мастер‑универсал — за один визит.",
+
+  "homeCategoryElectricalTitle": "Электромонтажные работы",
+  "homeCategoryPlumbingTitle": "Сантехнические работы",
+  "homeCategoryHouseholdTitle": "Бытовые работы",
+  "homeCategoryConstructionTitle": "Мелкий строительный ремонт",
+  "homeCategoryCta": "Заказать",
+
+  "homeSosTitle": "Помогите! SOS!",
+  "homeSosBody": "Нет света? Потоп? Сломан замок?",
+  "homeSosCta": "Срочный выезд",
+
+  "homeMarqueeReceipt": "Электронный чек",
+  "homeMarqueeWarranty": "Гарантия на работы",
+  "homeMarqueeRegion": "Город и пригород",
+  "homeMarqueeCleanup": "Уборка после работ",
+  "homeMarqueeBoth": "Юр. и физ. лицам",
+  "homeMarqueeOnTime": "Приезжаем вовремя",
+  "homeMarqueePros": "Опытные мастера",
+  "homeMarqueeClean": "Чистая работа",
+
+  "homeChipSocket": "Замена розеток",
+  "homeChipFaucet": "Установка смесителя",
+  "homeChipFurniture": "Сборка мебели",
+  "homeChipLock": "Замена замков",
+  "homeChipPicture": "Подвесить картину",
+
+  "comingSoonTitle": "Уже скоро",
+  "comingSoonBody": "Этот раздел появится в следующей итерации.",
+
+  "themeToggleHint": "Переключить тему"
+}
